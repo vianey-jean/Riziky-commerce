@@ -5,7 +5,7 @@ const products = [
       price: 149.99,
       description: "Perruque lace front de qualité supérieure, cheveux brésiliens 100% naturels. Densité 150%, longueur 18 pouces.",
       category: "perruque",
-      stock: 15,
+      stock: 0,
       images: ["/images/perruque1.jpg", "/images/perruque1-2.jpg", "/images/perruque1-3.jpg"],
       specifications: ["Densité: 150%", "Longueur: 18 pouces", "Type: Lace Front", "Origine: Brésil", "Couleur: Noir naturel"],
       featured: true,
